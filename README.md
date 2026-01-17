@@ -12,7 +12,7 @@ plotter.py (A visualization tool that renders vehicle trajectories)<br>
 test_FSM_based_cut_in_vehicle.py (Adversarial Vehicle Control Framework Utilizing Finite State Machine)<br>
 data_analyze_example.py (plotting example)
 #### FSM
-<img width=40% alt="FSM" src="https://github.com/user-attachments/assets/8f8add85-ea36-4f2c-9d08-36020ce15085" />
+<img width=45% alt="FSM" src="https://github.com/user-attachments/assets/8f8add85-ea36-4f2c-9d08-36020ce15085" />
 
 #### Demo Video
 [![FSM cutin](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)
