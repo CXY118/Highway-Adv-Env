@@ -17,4 +17,4 @@ data_analyze_example.py (plotting example)
 #### Demo Video
 [![FSM cutin](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)
 #### Plotting Example
-<img width=70% alt="Figure_1" src="https://github.com/user-attachments/assets/f1f73e40-808e-4e8e-936d-22d75b6217c7" />
+<img width=70% alt="Figure_1" src="https://github.com/user-attachments/assets/ba3bb16f-0cb1-4c12-9de9-c1be86169a42" />
