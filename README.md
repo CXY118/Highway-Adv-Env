@@ -15,6 +15,6 @@ data_analyze_example.py (plotting example)
 <img width=50% alt="FSM" src="https://github.com/user-attachments/assets/8f8add85-ea36-4f2c-9d08-36020ce15085" />
 
 #### Demo Video
-[![FSM cutin](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d){: width="50%"}
+[![FSM cutin](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)](https://github.com/user-attachments/assets/5af99b08-a519-4046-bc0e-268595cc7d5d)
 #### Plotting Example
 <img width=50% alt="Figure_1" src="https://github.com/user-attachments/assets/f1f73e40-808e-4e8e-936d-22d75b6217c7" />
